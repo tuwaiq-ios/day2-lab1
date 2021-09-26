@@ -1,5 +1,5 @@
-# week1-day2-lab3
- 
+# Week1 Day2 Lab1: Swift Basics
+
  ## Topics
  1. Variables 
  2. Constants
@@ -7,19 +7,19 @@
  4. Strings 
  5. Arrays 
  6. Sets
-
+ 
+ 
 ## Descrition
-1. create two integer variables a and b
-2. print the sum of these variable 
-3. create array of 6 elements 
-4. add the value 7 to the array 
-5. print the fourth element of the array 
-6. delete the second element of the array 
-7. create a set of 4 elements 
-8. print every element in the set
+1. Create two integer variables `a` and `b`
+2. Print the sum of these variable 
+3. Create array of 6 elements 
+4. Add the value 7 to the array 
+5. Print the fourth element of the array 
+6. Delete the second element of the array 
+7. Create a set of 4 elements 
+8. Print every element in the set
+9. Create a string variable that holds your name
+10. Print your name (the variable)
 
-## points 
-Each 
-
-## Deadline 
-27/9/2021
+## DeadLine 
+Monday 27 September
