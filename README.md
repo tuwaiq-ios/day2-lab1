@@ -9,7 +9,7 @@
  6. Sets
  
  
-## Descrition
+## Description
 1. Create two integer variables `a` and `b`
 2. Print the sum of these variable 
 3. Create array of 6 elements 
